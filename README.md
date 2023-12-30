@@ -30,7 +30,7 @@
 
   ----
   ## Technology Stack
-  1. Unity
+  1. Unity v.2020.3.16
   2. C# Language
   3. Python
   4. OpenCv
